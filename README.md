@@ -92,6 +92,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Built with [Pillow](https://pillow.readthedocs.io/) (PIL Fork)
-- Uses NumPy for efficient image processing
 - Code adapted from [ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) by chflame163 
