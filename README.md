@@ -2,6 +2,12 @@
 
 A Python-based image processing tool that helps remove yellow tints from images while preserving image quality. This tool provides various image adjustment capabilities including brightness, contrast, saturation, and color channel adjustments.
 
+## Before/After Comparison
+
+| Before | After |
+|--------|--------|
+| ![Before](https://github.com/user-attachments/assets/660c47c4-220c-4f96-9509-059ed84c493a) | ![After](https://github.com/user-attachments/assets/fec65f00-192c-4324-9b15-5494965aae57) |
+
 ## Features
 
 - Automatic image normalization and enhancement
